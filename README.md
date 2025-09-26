@@ -464,7 +464,7 @@ and run the tests in it to check your work — debugging as needed.
 > Since MarkUs already has your GitHub URL, you don't need to "resubmit" that; you can just rerun the self
 > tests on MarkUs, and it will clone a copy of your most recent code from GitHub. Neat!
 
-And that's it for the first lab activity of the term!
+And that's it for the first lab activity of the term!!
 
 # Bonus activities
 There are some additional exercises below for your team to work through if you have time,
